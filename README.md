@@ -6,16 +6,17 @@ The UI design was provided in Figma, and I was responsible for converting the de
 
 Through this project, I practiced translating a Figma design into real web pages, structuring multiple pages, and styling the interface based on the provided design.
 
-✨ Pages
-Home
-Courses
-Course Details
-About Us
-Contact Us
-Pricing
-Login
-Sign Up
-🛠 Technologies
+✨ Pages /
+Home,
+Courses,
+Course Details,
+About Us,
+Contact Us,
+Pricing,
+Login,
+Sign Up,
+
+🛠 Technologies/
 HTML5
 CSS3
 Figma
